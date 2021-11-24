@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: cb69d9aff9b2d6348a823f810799a507
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 1.25
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - c1372d532389d624996b4f0317c2d440
+  - 2547e907e861c764eabc3eb88bc08a1f
+  - 69d97b05bc1b37846a03c346a1e2d017
+  - 6b30adb5867245342a594618915f8f28
+  - 3755f073cd135cb40947d3af68711d25
+  - 0305f09fe838d4c44b90436aa10d8a03
+  - d0d09704a3954664e97e9a9a5a4805ee
+  - fc9fcc9af2cfa8e4bb40b7cd9990a77b
+  - effa21268385aeb4ba28054847727bd9
+  - 78b012991da61d94298f4b9f63038a8b
+  - 4bc11e52778a8c64b92ca930f15edf73
+  - dc1c119a394d2a743a354f5b6d7fbffc
+  - acd47355734dace45b468a6f81c6aae7
+  - a98abfcdfe33deb4b82d4d80c82ed2ca
+  - 9015efeb681e90e48b16b78c701869b7
+  - a334a7e4163adf8498522a2f05b24fed
+  - 8fad9f10325dcd444b5e59c95ddadeac
+  - f7deafdd7ba923d49b5f6fbcd7a04552
+  - 4d59b381ae530244cb71af23c3df6bec
+  - a8048ea35af2d564383de13d9ab0a442
+  - 0a2a270a0c660ea4daf47572ad9e94bd
+  - 7d2de0bba7fb28d4ca406345cb40a998
+  - 41dd98f7aa8cbb349becfc7350c1d04e
+  - 51e52c2df7b0c10479f365431df1d14f
+  - bc05564bc65fe904082db35398ad65bc
+  - 52e3a419737a77747b4ced0e1b0ff163
+  - 0882ed13ca824b44d8229a58803f34ea
+  - 72b68029b569d804fbd1f98e6a31e63b
+  - 05456f2888a1e3444ad8988fdc1b94aa
+  - f01c6f525112fb24f957a04fa5abe1be
+  - 6760ec4755448fd4e88afd378170432a
+  - a19db75fef8949f49b1897582f1c1b92
+  - 26c1cf76c6313e54cb17f310ad31a2f8
+  - 321ff51a01eb7b447992c23a561df4e6
+  - 94a5accd06937dd4a8a7f82eef778f09
+  - dcbdd95ac51c07649a56d2428a2c6587
+  - b31dc674811c8b7409604878ebcbc92c
+  - 567864590a81fb842a3e030d06f369d6
+  - 4352c119bc4631f46b81e4690200e9de
+  - a94072bbfc9973843853f46e288e450d
+  - 7fb2befa50aa1d04aa96548fffb3ca3f
+  - a7098f629e55d3c43aa363ca9de5f3d3
+  - 2adfefaf28cf6a24083cc089a96454d3
+  - c166899cc7db7f746b32188f4249c2dc
+  - 98338df7e5a05f540b580ba38738bcf8
+  - 33a1c06876409d140b1d573522cd951c
+  - af36536c9fd834d428009f7968b77bde
+  - d11fb28bd2ce2f248b27cc09da1a28f2
+  - 6dc561c52f7ced64488b4185230dcabf
+  - 553f61bb08675744797721a5b662a6ac
+  - 765e404e441d49c4b9985b02f493120c
+  - 84c4a15f8da85ac40bcf44c318def9b9
+  - 478562cf4f378fe42a08049ef036ea40
+  - 886a8322fc6805342ade9100f7c343fe
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

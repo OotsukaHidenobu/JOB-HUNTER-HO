@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HologramShader 1
+  m_Shader: {fileID: 4800000, guid: 35f7dab09a7de504289c4f1fe713d713, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FlickerTex:
+        m_Texture: {fileID: 2800000, guid: eb6ba4c4be3b7e542bfb75f400c19f71, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1506fae64c7be8e4e8289432da2eba61, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha: 1
+    - _Brightness: 3
+    - _FlickerSpeed: 9.1
+    - _Fold: 1
+    - _GlitchIntensity: 0
+    - _GlitchSpeed: 8.2
+    - _GlowSpeed: 10
+    - _GlowTiling: 0.279
+    - _RimPower: 2.79
+    - _ScanSpeed: 0.59
+    - _ScanTiling: 8.92
+    m_Colors:
+    - _Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _MainColor: {r: 0.6603774, g: 0.6603774, b: 0.6603774, a: 1}
+    - _RimColor: {r: 0.04026306, g: 0.1509434, b: 0.019223925, a: 1}
